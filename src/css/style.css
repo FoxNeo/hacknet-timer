@@ -1,0 +1,49 @@
+@font-face { 
+    font-family: "Kremlin";
+    src: url('kremlin.ttf') format('truetype'); 
+}
+
+body {
+  font-family: 'Kremlin', 'Arial';
+  background-color: #59555F;
+}
+.black-color {
+  background-color: black;
+}
+h1 {
+  margin-top: 0px;
+  font-size: 80px;
+}
+.container{
+  color: #D48A00;
+}
+.danger {
+  background-color: #6D0200;
+}
+p {
+  display: inline;
+  font-size: 150px;
+}
+.start-color{
+  background-color: #59555F;
+}
+.warning-color {
+  color: #D52402;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    text-align: center;
+}
+
+li {
+    float: left;
+}
+section {
+  margin-right: 0%;
+  margin-top: -50px;
+}
+
