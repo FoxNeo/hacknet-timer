@@ -1,6 +1,8 @@
 # Hacknet-timer
 
-Hacknet is a modern, super immersive terminal-driven hacking game created by: [Matt Trobbiani](http://www.hacknet-os.com/)
+[Click here to see the App](https://foxneo.github.io/hacknet-timer/src/html/app.html)
+
+Hacknet is a modern, hacking game created by: [Matt Trobbiani](http://www.hacknet-os.com/)
 
 ![Imgur](https://i.imgur.com/TWuegYm.png)
 
