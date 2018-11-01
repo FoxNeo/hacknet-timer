@@ -10,4 +10,9 @@ In the videogame there is a countdown, I tried to create it for the browser so e
 
 ![Imgur](https://i.imgur.com/n4T0y4u.png)
 
-Warning: it is recommended to use google chrome.
+## Author
+
+* **Miguel Caceres** - [Bio](https://github.com/foxneo)
+
+## License
+This project is lincensed under MIT License - see the [LICENSE](LICENSE) file for details
