@@ -14,5 +14,8 @@ In the videogame there is a countdown, I tried to create it for the browser so e
 
 * **Miguel Caceres** - [Bio](https://github.com/foxneo)
 
+## Contributing
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+
 ## License
 This project is lincensed under MIT License - see the [LICENSE](LICENSE) file for details
